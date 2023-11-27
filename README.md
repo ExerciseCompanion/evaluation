@@ -66,3 +66,52 @@
   - Place Where Usability Test was Taken:
 
 ### Script
+- We are evaluating the usability of a excercise companion application to determine any fatal usability issues.
+- This will not take more than 25 minutes
+- Feel free to express your unhinged feelings about this application
+- Ask if you have any questions
+- Only our team will see this consent form and you may termininate this session at anytime
+
+### Data
+- A
+  - Device Used: Your Device
+  - Goal 1 Observations:
+  - Goal 2 Observations:
+  - Goal 3 Observations:
+  - Goal 4 Observations:
+  - Goal 5 Observations:
+- B
+  - Device Used:
+  - Goal 1 Observations:
+  - Goal 2 Observations:
+  - Goal 3 Observations:
+  - Goal 4 Observations:
+  - Goal 5 Observations:
+- C
+  - Device Used:
+  - Goal 1 Observations:
+  - Goal 2 Observations:
+  - Goal 3 Observations:
+  - Goal 4 Observations:
+  - Goal 5 Observations:
+- D
+  - Device Used:
+  - Goal 1 Observations:
+  - Goal 2 Observations:
+  - Goal 3 Observations:
+  - Goal 4 Observations:
+  - Goal 5 Observations:
+- E
+  - Device Used:
+  - Goal 1 Observations:
+  - Goal 2 Observations:
+  - Goal 3 Observations:
+  - Goal 4 Observations:
+  - Goal 5 Observations:
+
+### Results
+- Usability Issue 1:
+- Usability Issue 2:
+- Usability Issue 3:
+
+
