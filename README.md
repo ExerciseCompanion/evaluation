@@ -39,10 +39,30 @@
 ### Recuritment
 - Users were recruited based on whoever wanted to take part.
 ### Participants
-#### A
-- Has Real Pet:
-- Exercises Regularly:
-- Plays Games:
-- Place Where Usability Test was Taken:
+- A
+  - Has Real Pet:
+  - Exercises Regularly:
+  - Plays Games:
+  - Place Where Usability Test was Taken:
+- B
+  - Has Real Pet:
+  - Exercises Regularly:
+  - Plays Games:
+  - Place Where Usability Test was Taken:
+- C
+  - Has Real Pet:
+  - Exercises Regularly:
+  - Plays Games:
+  - Place Where Usability Test was Taken:
+- D
+  - Has Real Pet:
+  - Exercises Regularly:
+  - Plays Games:
+  - Place Where Usability Test was Taken:
+- E
+  - Has Real Pet:
+  - Exercises Regularly:
+  - Plays Games:
+  - Place Where Usability Test was Taken:
 
 ### Script
