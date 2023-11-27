@@ -34,3 +34,15 @@
 - **Shop:** Refers to the in-app store for which users may purchase more pets or accessories.
 - **Task:** Refers to an optional activity for the user to accomplish.  Upon accomplishment, they recieve a reward.
 
+## Participation
+- Signed concent forms are available to authorized personel.
+### Recuritment
+- Users were recruited based on whoever wanted to take part.
+### Participants
+#### A
+- Has Real Pet:
+- Exercises Regularly:
+- Plays Games:
+- Place Where Usability Test was Taken:
+
+### Script
