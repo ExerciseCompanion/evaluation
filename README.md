@@ -1,4 +1,4 @@
-# Evaluation
+# Exercise Companion Usability Evaluation Design
 
 ## Usability Goals and Senarios:
 
