@@ -27,12 +27,15 @@
 - **Scenario:** Assuming your pet has bit the dust or you've wish to have different companion.  Find a way to switch to another pet.
 - **Success Condition:** User swaps to a different pet.
 
-## Types
+## Vocabulary
 - **Health:** Refers to an imaginary health value associated with a pet.  Ideally, it shall go down over time, and increase when the user walks (step counter).  Higher the better.
 - **Experience:** Refers to an imaginary experience value associated with a pet which denotes the total amount of walking the user has done with this pet, higher the better
 - **Step:** Refers to the steps a user has taken for the step counter.
 - **Shop:** Refers to the in-app store for which users may purchase more pets or accessories.
 - **Task:** Refers to an optional activity for the user to accomplish.  Upon accomplishment, they recieve a reward.
+
+## User Types
+- **User/Pet Owner:** Referes to the end user for which the app targets.  The user that owns the virtual pets.
 
 ## Participation
 - Signed concent forms are available to authorized personel.
