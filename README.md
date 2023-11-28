@@ -40,7 +40,7 @@
 ## Participation
 - Signed concent forms are available to authorized personel.
 ### Recuritment
-- Users were recruited based on whoever wanted to take part.
+- Users were recruited based on whoever wanted to take part.  Typically close friends, and frequently seen associates will be asked to participicate.
 ### Participants
 - A
   - Has Real Pet:
