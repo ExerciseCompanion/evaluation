@@ -35,7 +35,7 @@
 - **Task:** Refers to an optional activity for the user to accomplish.  Upon accomplishment, they recieve a reward.
 
 ## User Types
-- **User/Pet Owner:** Referes to the end user for which the app targets.  The user that owns the virtual pets.
+- **Virtual Pet Owner:** Referes to the end user for which the app targets.  The user that owns the virtual pets.
 
 ## Participation
 - Signed concent forms are available to authorized personel.
